@@ -5,32 +5,25 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "CallHQ",
-    category: "Voice AI Calling Platform",
-    tools: "Voice AI, Calling Automation, CRM Integrations",
-    image: "/images/callhq.png",
-    link: "https://callhq.ai",
+    title: "Food_Inventory_Frontend",
+    category: "TypeScript",
+    tools: "Frontend, TypeScript",
+    image: "/images/food.png",
+    link: "https://github.com/sh1vam31/Food_Inventory_Frontend",
   },
   {
-    title: "Whatsapp Automation",
-    category: "WABA Application",
-    tools: "WhatsApp Business API, Workflow Automation, Notifications",
-    image: "/images/whatsapp.png",
-    link: "https://whatsapp.callhq.ai",
+    title: "Nova AI",
+    category: "Python",
+    tools: "AI, Python",
+    image: "/images/nova.png",
+    link: "https://github.com/sh1vam31/Nova_AI",
   },
   {
-    title: "Broki",
-    category: "Real Estate Platform for FnB Industry",
-    tools: "Property Discovery, Lead Management, Marketplace Workflows",
-    image: "/images/broki.png",
-    link: "https://broki.in",
-  },
-  {
-    title: "Orrdr.com",
-    category: "Ecommerce Platform and Mobile App",
-    tools: "Ecommerce, Mobile Experience, Order Management",
-    image: "/images/orrdr.png",
-    link: "https://orrdr.com",
+    title: "Smart_Weather_Detector",
+    category: "JavaScript",
+    tools: "Weather API, JavaScript",
+    image: "/images/weather.png",
+    link: "https://github.com/sh1vam31/Smart_Weather_Detector",
   },
 ];
 
