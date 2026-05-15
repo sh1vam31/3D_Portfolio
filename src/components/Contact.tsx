@@ -20,10 +20,8 @@ const Contact = () => {
               </a>
             </p>
             <h4>Education</h4>
-            <p>
-              B.Tech Computer Science, Manav Rachna Educational Institutions —
-              2009–2013
-            </p>
+            <p>B.Tech Computer Science specialization in AI/ML, Polaris School of Technology</p>
+            <p>B.S in Data Science and Application, Indian Institude of Technology Madras</p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
